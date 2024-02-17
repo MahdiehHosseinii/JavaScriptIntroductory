@@ -478,6 +478,12 @@
 // } while (i < SecondNumber)
 // alert("power: " + Power)
 
+// var fruts = ["apple" , "peach" , "orange" , "blueberry"]
+// console.log(fruts)
+// console.log(fruts[2])
+// console.log(fruts.length)
+// console.log(fruts[9])
+
 
 
 
