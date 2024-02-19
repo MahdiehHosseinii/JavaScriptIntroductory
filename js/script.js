@@ -530,6 +530,37 @@
 // console.log(users[0])
 // console.log(users[1].family)
 
+// var users = [
+//     {id: 1 , name:"mahdieh" , family:"hosseini" , age: 23 , email:"mahdieh320@gmail.com"} ,
+//     {id: 2 , name:"amir" , family:"kazemi" , age: 23 , email:"apkamir64@gmail.com"} ,
+//     {id: 3 , name:"nasim" , family:"beigi" , age: 24 , email:"nasimbg@gmail.com"}
+// ]
+// var userName = prompt("Enter your name:")
+// var userFamily = prompt("Enter your family:")
+// var userAge = prompt("Enter your age:")
+// var userEmail = prompt("Enter your email:")
+// if (userName.length < 3 || userName.length > 10) {
+//     alert("نام شما باید بیشتر از 3 کاراکتر و کمتر از 10 کاراکتر باشد.")
+// }else if (userFamily.length < 3 || userFamily.length > 15) {
+//     alert("نام خانوادگی شما باید بیشتر از 3 کاراکتر و کمتر از 15 کاراکتر باشد.")
+// } else if (isNaN(userAge) || userAge.length > 3) {
+//     alert("لطفا سن را به درستی وارد کنید")
+// }else {
+//     var newUser = {
+//         id: 4 ,
+//         name: userName ,
+//         family: userFamily ,
+//         age: userAge ,
+//         email: userEmail
+//     }
+//     users.push(newUser)
+//     console.log(users)
+// }
+
+
+
+
+
 
 
 
