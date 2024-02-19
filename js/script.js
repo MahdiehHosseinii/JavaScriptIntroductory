@@ -557,6 +557,22 @@
 //     console.log(users)
 // }
 
+// var users = [
+//     "ali" ,
+//     "amin" ,
+//     "amir" ,
+//     "babak" ,
+//     "sasan"
+// ]
+// users.forEach(function (user) {
+//     console.log(user)
+// })
+
+// var scores = [19 , 20 , 13 , 10 , 18]
+// scores.forEach(function (number) {
+//     console.log(number * 2)
+// })
+
 
 
 
