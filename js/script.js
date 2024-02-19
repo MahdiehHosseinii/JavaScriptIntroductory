@@ -484,6 +484,13 @@
 // console.log(fruts.length)
 // console.log(fruts[9])
 
+// var scores = [12 , 17 , 19, 20 , 11]
+// scores [5] = 15
+// scores.push(10 , 18)
+// scores.pop()
+// scores.shift()
+// scores.unshift(13 , 18)
+// console.log(scores)
 
 
 
