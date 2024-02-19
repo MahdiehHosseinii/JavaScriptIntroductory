@@ -506,8 +506,29 @@
 // }
 // console.log("average:" + sum / userNumbers.length)
 
+// var users = {name: "mhi" ,
+//     family: "hsi",
+//     age: 23
+// }
+// console.log(users)
+// console.log(users["age"])
+// console.log(users.family)
 
-
+// var users = [
+//     {
+//         name:"mhi" ,
+//         family:"hsi" ,
+//         age: 23
+//     } ,
+//     {
+//         name:"amir" ,
+//         family:"kzm" ,
+//         age: 23
+//     }
+// ]
+// console.log(users)
+// console.log(users[0])
+// console.log(users[1].family)
 
 
 
