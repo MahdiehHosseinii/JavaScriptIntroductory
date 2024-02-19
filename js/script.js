@@ -573,6 +573,15 @@
 //     console.log(number * 2)
 // })
 
+// var usersArrey = [
+//     {id: 1 , name: "mahdieh" , family: "hosseini" , age: 23} ,
+//     {id: 2 , name: "amir" , family: "kazemi" , age: 23} ,
+//     {id: 3 , name: "nasim" , family: "beigi" , age: 24} ,
+// ]
+// usersArrey.forEach(function (user) {
+//     console.log("Name: " + user.name + "Family: " + user.family)
+// })
+
 
 
 
