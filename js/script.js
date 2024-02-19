@@ -492,6 +492,21 @@
 // scores.unshift(13 , 18)
 // console.log(scores)
 
+// var userNumbers =[]
+// var userNumber = 0
+// var sum = 0
+// while (userNumber != -1) {
+//     userNumber= + prompt("Enter the Number: \n enter -1 if you dont any number" )
+//     if (userNumber != -1) {
+//         userNumbers.push(userNumber)
+//     }
+// }
+// for (var i = 0 ;i < userNumbers.length ; i++) {
+//     sum += userNumbers[i]
+// }
+// console.log("average:" + sum / userNumbers.length)
+
+
 
 
 
