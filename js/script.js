@@ -620,7 +620,42 @@
 // })
 // console.log(isInUsers)
 
-
+// var allProducts = [
+//     {id:1 , name: "laptap" , price: 17000} ,
+//     {id:2 , name: "phone" , price: 7000} ,
+//     {id:3 , name: "pen" , price: 5000} ,
+//     {id:3 , name: "pencil" , price: 3000} ,
+//     {id:3 , name: "eraser" , price: 1000} ,
+//     {id:3 , name: "milk" , price: 5000} ,
+// ]
+// var userBasket = [
+//     {id: 1 , name:"pen" , price: 5000} ,
+//     {id: 2 , name:"pencil" ,price: 3000}
+// ]
+// var userProduct = prompt("Enter the name of product: ")
+// var requestProduct ;
+// var isInShop = allProducts.some(function (product) {
+//     if (product.name === userProduct) {
+//         requestProduct = product
+//         return true
+//     }
+// })
+// if (isInShop === true) {
+//     var newProduct = {
+//         id: 3 ,
+//         name: requestProduct.name ,
+//         price: requestProduct.price
+//     }
+//     userBasket.push(newProduct)
+//     var sum = 0
+//     userBasket.some(function (product){
+//         sum += product.price
+// })
+//     console.log(userBasket)
+//     alert("total price: " + sum)
+// } else {
+//     console.log("موجود نیست")
+// }
 
 
 
