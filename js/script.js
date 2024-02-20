@@ -663,6 +663,28 @@
 // })
 // console.log(isAll)
 
+// var groupUsers = [
+//     {id: 1 , name: "ali" , age: 20} ,
+//     {id: 2 , name: "amir" , age: 23} ,
+//     {id: 3 , name: "komeil" , age: 29} ,
+//     {id: 4 , name: "ahmad" , age: 22} ,
+//     {id: 5 , name: "hosseini" , age: 27} ,
+//     {id: 6 , name: "reza" , age: 25} ,
+//     {id: 7 , name: "mohammad" , age: 24} ,
+//     {id: 8 , name: "abbas" , age: 28} ,
+//     {id: 9 , name: "mahdi" , age: 19} ,
+//     {id: 10 , name: "aryan" , age: 18}
+// ]
+// var isAll = groupUsers.every(function (user) {
+//     return user.age > 18
+// })
+// if (isAll === true) {
+//     console.log("down")
+// }else {
+//     console.log("not down")
+// }
+
+
 
 
 
