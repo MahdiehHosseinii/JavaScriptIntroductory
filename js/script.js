@@ -684,6 +684,9 @@
 //     console.log("not down")
 // }
 
+// var numbers = [19, 23, 89, 56 ,70 ,10 ]
+// numbers.splice(1 , 2 , 6 ,8 ,9 ,0, 3)
+// console.log(numbers)
 
 
 
