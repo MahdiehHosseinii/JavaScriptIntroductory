@@ -657,6 +657,12 @@
 //     console.log("موجود نیست")
 // }
 
+// var age = [19 , 15 , 67, 43 , 10]
+// var isAll = age.every(function (age) {
+//     return age > 8
+// })
+// console.log(isAll)
+
 
 
 
