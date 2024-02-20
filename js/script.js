@@ -582,7 +582,31 @@
 //     console.log("Name: " + user.name + "Family: " + user.family)
 // })
 
+// var users = [
+//     "ali" ,
+//     "amin" ,
+//     "amir" ,
+//     "babak"
+// ]
+// console.log(users.includes("amir"))
 
+// var scores = [ 19 , 15 , 10 , 20 , 13 , 18 ]
+// console.log(scores.includes(19 , 2))
+
+// var userName = prompt("Enter your name:")
+// var users = [
+//     "amir" ,
+//     "amin" ,
+//     "ali" ,
+//     "babak" ,
+//     "sasan"
+// ]
+// var isLogin = users.includes(userName)
+// if (isLogin === true) {
+//     console.log("ورود")
+// }else {
+//     console.log("ناموفق")
+// }
 
 
 
