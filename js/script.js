@@ -608,6 +608,18 @@
 //     console.log("ناموفق")
 // }
 
+// var users =[
+//     {id:1 , name: "amir" , age: 23} ,
+//     {id:2 , name: "amin" , age: 27} ,
+//     {id:3 , name: "babak" , age: 16}
+// ]
+//
+// var isInUsers= users.some(function (user){
+//     // console.log(user)
+//     return user.age === 29
+// })
+// console.log(isInUsers)
+
 
 
 
