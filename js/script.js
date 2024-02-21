@@ -369,13 +369,13 @@
 // }
 // alert("قیمت نهایی : " + Allprices)
 
- // var userNumber = null
- // var sum = 0
- // for (var i = 0 ; i < 5 ; i++) {
- //     userNumber = Number(prompt("Enter The "  + (i+1) + " Number : " ))
- //     sum = sum + userNumber
- // }
- // console.log("Average: " + (sum / 5))
+// var userNumber = null
+// var sum = 0
+// for (var i = 0 ; i < 5 ; i++) {
+//     userNumber = Number(prompt("Enter The "  + (i+1) + " Number : " ))
+//     sum = sum + userNumber
+// }
+// console.log("Average: " + (sum / 5))
 
 //  var userNumber = Number(prompt("Enter Your Number" , 0))
 //  var sum = 0
@@ -704,4 +704,53 @@
 //     return user.name === "amir"
 // })
 // console.log(usersIndex)
+
+// var allProducts = [
+//     {id: 1, name: "milk", price: 35000},
+//     {id: 2, name: "water", price: 3000},
+//     {id: 3, name: "juice", price: 20000},
+//     {id: 4, name: "cheese", price: 40000},
+//     {id: 5, name: "cake", price: 10000},
+//     {id: 5, name: "yogurt", price: 10000},
+//     {id: 5, name: "Butter", price: 10000},
+//     {id: 5, name: "coca", price: 10000},
+// ]
+// var userBasket = [
+//     {id: 5, name: "cake", price: 10000},
+//     {id: 3, name: "juice", price: 20000},
+//     {id: 1, name: "milk", price: 35000}
+// ]
+// var userRequest = prompt("1. add product \n 2.remove product")
+// if (userRequest === "1") {
+//     var userProductName = prompt("enter your product name: ")
+//     var productdata ;
+//     var isInShop = allProducts.some(function (product) {
+//         if (product.name === userProductName) {
+//             productdata = product
+//             return true
+//         }
+//     })
+//     if (isInShop === true) {
+//         var newProduct = {
+//             id: 3,
+//             name: productdata.name,
+//             price: productdata.price
+//         }
+//         userBasket.push(newProduct)
+//         console.log("your basket :" , userBasket)
+//     } else {
+//         alert("موجود نمیباشد")
+//     }
+// } else if (userRequest === "2") {
+//     var userProductName = prompt("enter your product name: ")
+//     var productIndex = userBasket.findIndex(function (product) {
+//         return product === userProductName
+//         })
+//     userBasket.splice(productIndex , 1)
+//     console.log("your basket: " , userBasket)
+// } else {
+//     alert("مقدار وارد شده صحیح نیست")
+// }
+
+
 
