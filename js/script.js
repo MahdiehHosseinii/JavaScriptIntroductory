@@ -711,9 +711,9 @@
 //     {id: 3, name: "juice", price: 20000},
 //     {id: 4, name: "cheese", price: 40000},
 //     {id: 5, name: "cake", price: 10000},
-//     {id: 5, name: "yogurt", price: 10000},
-//     {id: 5, name: "Butter", price: 10000},
-//     {id: 5, name: "coca", price: 10000},
+//     {id: 6, name: "yogurt", price: 80000},
+//     {id: 7, name: "Butter", price: 13000},
+//     {id: 8, name: "coca", price: 18000},
 // ]
 // var userBasket = [
 //     {id: 5, name: "cake", price: 10000},
@@ -769,5 +769,24 @@
 //     return name.length > 3
 //     })
 // console.log("filtered username: " , filteredUserName)
+
+// var userBasket = [
+//     {id: 1, name: "milk", price: 35000},
+//     {id: 2, name: "water", price: 3000},
+//     {id: 3, name: "juice", price: 20000},
+//     {id: 4, name: "cheese", price: 40000},
+//     {id: 5, name: "cake", price: 10000},
+//     {id: 6, name: "yogurt", price: 80000}
+// ]
+// var filteredProducts = userBasket.filter(function (product) {
+//     return product.price < 20000
+// })
+// var postCost = filteredProducts.length * 1000
+// var sum = 0
+// userBasket.forEach(function (product) {
+//     sum += product.price
+// })
+// var totalPrice = sum + postCost
+// console.log("total price: " , totalPrice)
 
 
