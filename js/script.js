@@ -800,4 +800,15 @@
 // var userName = "amir amin"
 // console.log(userName.split("/"))
 
+// var word = prompt("enter the word: ")
+// var charactorsArray = word.split("")
+// var reveresCharactors = charactorsArray.reverse()
+// var reverseWord = reveresCharactors.join("")
+// console.log(reverseWord)
+// if (word === reverseWord) {
+//     console.log("یک شکل هستند")
+// } else {
+//     console.log("یک شکل نیستند")
+// }
+
 
