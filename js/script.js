@@ -752,5 +752,10 @@
 //     alert("مقدار وارد شده صحیح نیست")
 // }
 
+// var scores = [9 , 8 , 0 , 13, 5, 10]
+// var scoresPower = scores.map(function (score) {
+//     return score **2
+// })
+// console.log(scoresPower)
 
 
