@@ -758,4 +758,16 @@
 // })
 // console.log(scoresPower)
 
+// var scores = [19 , 23, 56, 16, 87, 12]
+// var filteredScores = scores.filter(function (score) {
+//     return score > 20
+//     })
+// console.log("filtered scores: " , filteredScores)
+
+// var userName =["ali" , "amir" , "amin" , "mhi" , "sasan"]
+// var filteredUserName = userName.filter(function (name) {
+//     return name.length > 3
+//     })
+// console.log("filtered username: " , filteredUserName)
+
 
