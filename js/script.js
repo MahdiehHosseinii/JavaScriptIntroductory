@@ -789,4 +789,15 @@
 // var totalPrice = sum + postCost
 // console.log("total price: " , totalPrice)
 
+// var scores = [4 , 7 , 12 , 23, 8 , 15 , 7]
+// console.log(Array.isArray(scores))
+// console.log(scores.indexOf(8))
+// console.log(scores.lastIndexOf(7))
+// console.log(scores.slice(2 , 5))
+// console.log(scores.join("."))
+// console.log(scores.reverse())
+
+// var userName = "amir amin"
+// console.log(userName.split("/"))
+
 
