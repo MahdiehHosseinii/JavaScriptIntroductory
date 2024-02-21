@@ -688,6 +688,20 @@
 // numbers.splice(1 , 2 , 6 ,8 ,9 ,0, 3)
 // console.log(numbers)
 
+// var users = ["amir" , "amin" , "ali" , "babak"]
+// var findIndex = users.findIndex(function (user) {
+//     return user === "ali"
+// })
+// console.log(findIndex)
 
-
+// var users = [
+//     {id: 1 , name: "amir" , age: 23} ,
+//     {id: 2 , name: "amin" , age: 28} ,
+//     {id: 3 , name: "ali" , age: 17} ,
+//     {id: 4 , name: "babak" , age: 34}
+// ]
+// var usersIndex = users.findIndex(function (user) {
+//     return user.name === "amir"
+// })
+// console.log(usersIndex)
 
