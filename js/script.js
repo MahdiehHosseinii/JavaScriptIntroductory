@@ -846,3 +846,15 @@
 //     alert("مقدار وارد شده صحیح نمیباشد")
 // }
 
+// var tasksArray = {
+//     ali : ["html" , "css" , "js"] ,
+//     amin : ["react" , "vue" , "angular"] ,
+//     amir : ["seo" , "link building"] ,
+//     babak : ["admin" , "content"]
+// }
+// var newTaskName = prompt("enter the new task: ")
+// var employName = prompt("enter the employ name: ")
+// var employTasks = tasksArray[employName]
+// employTasks.push(newTaskName)
+// console.log(tasksArray)
+
