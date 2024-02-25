@@ -858,3 +858,25 @@
 // employTasks.push(newTaskName)
 // console.log(tasksArray)
 
+// var num1 = 10
+// var num2 = num1 *4
+// console.log(num1)
+// console.log(num2)
+
+// var userName1 = ["ali" , "amir" , "babak" , "amin"]
+// var userName2 = userName1
+// userName2.push("abbas")
+// console.log(userName1)
+// console.log(userName2)
+
+// var product = {
+//     id: 1 ,
+//     name: "laptop" ,
+//     price: 30000000
+// }
+// var newProduct = product
+// newProduct.count = 10
+// console.log(product)
+// console.log(newProduct)
+
+
