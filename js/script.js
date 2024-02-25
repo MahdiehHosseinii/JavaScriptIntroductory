@@ -879,4 +879,14 @@
 // console.log(product)
 // console.log(newProduct)
 
-
+// var cities = {
+//     Zanjan: ["zanjan", "abhar", "qeydar", "tarom"],
+//     Tehran: ["tehran", "varamin", "bumehen", "rudehen"],
+//     Mazandaran: ["sari", "babolsar", "amol", "savadkoh"],
+//     Esfahan: ["esfahan", "kashan", "qamsar", "niyasar"]
+// }
+// var startProvince = prompt("enter your province: ")
+// var mainProvinceCities = cities[startProvince]
+// mainProvinceCities.forEach(function (city) {
+//     console.log(city)
+// })
