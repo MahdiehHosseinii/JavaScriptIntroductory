@@ -910,4 +910,47 @@
 // })
 // alert("your final score: " + score)
 
+// var num1 = +prompt("enter the first number: ")
+// var num2 = +prompt("enter the second number: ")
+// var userOperator = prompt("enter the operator: \n 1.+ \n 2.- \n 3./ \n 4.* \n 5.** \n 6.%")
+// if (userOperator === "1") {
+//     sum(num1, num2)
+// } else if (userOperator === "2") {
+//     minus(num1, num2)
+// } else if (userOperator === "3") {
+//     divide(num1, num2)
+// } else if (userOperator === "4") {
+//     multiplication(num1, num2)
+// } else if (userOperator === "5") {
+//     power(num1, num2)
+// } else if (userOperator === "6") {
+//     percent(num1, num2)
+// } else {
+//     alert("مقدار وارد شده صحیح نیست")
+// }
+//
+// function sum(num1, num2) {
+//     alert(num1 + num2)
+// }
+//
+// function minus(num1, num2) {
+//     alert(num1 - num2)
+// }
+//
+// function divide(num1, num2) {
+//     alert(num1 / num2)
+// }
+//
+// function multiplication(num1, num2) {
+//     alert(num1 * num2)
+// }
+//
+// function power(num1, num2) {
+//     alert(num1 ** num2)
+// }
+//
+// function percent(num1, num2) {
+//     alert(num1 % num2)
+// }
+
 
