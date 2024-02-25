@@ -890,3 +890,24 @@
 // mainProvinceCities.forEach(function (city) {
 //     console.log(city)
 // })
+
+// var allQuestions = [
+//     {id: 1, title: "2 + 2", answer: "4"},
+//     {id: 2, title: "3 * 2", answer: "6"},
+//     {id: 3, title: "5 ** 2", answer: "25"},
+//     {id: 4, title: "8 / 4", answer: "2"},
+//     {id: 5, title: "10 - 7", answer: "3"},
+//     {id: 6, title: "12 % 6", answer: "0"},
+//     {id: 6, title: "capital of Iran: ", answer: "Tehran"}
+// ]
+// var score = 0
+// var mainAnswer = " "
+// allQuestions.forEach(function (question) {
+//     mainAnswer = prompt(question.title + "?")
+//     if (mainAnswer === question.answer) {
+//         score++
+//     }
+// })
+// alert("your final score: " + score)
+
+
