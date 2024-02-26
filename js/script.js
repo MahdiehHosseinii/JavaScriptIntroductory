@@ -982,3 +982,7 @@
 //     alert("your password: " + mainUserData.password)
 // }
 
+// console.log(eval("5 ** 2"))
+// eval("var x = 10")
+// alert(x + 2)
+
