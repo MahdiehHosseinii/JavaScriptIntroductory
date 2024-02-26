@@ -953,4 +953,14 @@
 //     alert(num1 % num2)
 // }
 
+// var users = [
+//     {id: 1 , name: "ali" , age: 23} ,
+//     {id: 2 , name: "amir" , age: 25} ,
+//     {id: 3 , name: "amin" , age: 18} ,
+//     {id: 4 , name: "babak" , age: 38}
+// ]
+// var mainUserData = users.find(function (user){
+//     return user.name === "amin"
+// })
+// console.log(mainUserData)
 
