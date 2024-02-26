@@ -986,3 +986,15 @@
 // eval("var x = 10")
 // alert(x + 2)
 
+// users.filter(function (user){
+//     return user.id === "10"
+// })
+
+// (function () {
+//     alert("...")
+// })()
+
+// (function () {
+//     alert("...")
+// }())
+
