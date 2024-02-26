@@ -1022,3 +1022,13 @@
 //     second--
 // } , 1000)
 
+// var userName = prompt("enter the username: ")
+// if (!userName) {
+//     alert("وارد نمایید")
+// }
+
+// var userNumber = +prompt("enter the number: ")
+// if (!userNumber) {
+//     alert("وارد نمایید")
+// }
+
