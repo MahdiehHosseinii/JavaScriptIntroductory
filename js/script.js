@@ -964,3 +964,21 @@
 // })
 // console.log(mainUserData)
 
+// var usersData = [
+//     {id: 1 , username: "amir" , password: "01010101" , email:"amir@gmail.com" } ,
+//     {id: 2 , username: "amin" , password: "98989898" , email:"amin@gmail.com" } ,
+//     {id: 3 , username: "ali" , password: "09090909" , email:"ali@gmail.com" } ,
+//     {id: 4 , username: "reza" , password: "45454545" , email:"reza@gmail.com" } ,
+//     {id: 5 , username: "babak" , password: "23232323" , email:"babak@gmail.com" } ,
+//     {id: 6 , username: "sasan" , password: "65656565" , email:"sasan@gmail.com" }
+// ]
+// var userName = prompt("enter your username: ")
+// var mainUserData = usersData.find(function (user){
+//     return user.username === userName
+// })
+// if (mainUserData === undefined) {
+//     alert("you are not registered.")
+// }else {
+//     alert("your password: " + mainUserData.password)
+// }
+
