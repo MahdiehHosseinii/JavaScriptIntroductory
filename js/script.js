@@ -1036,3 +1036,10 @@
 //     alert(num1 + num2)
 // } , 5000 , 4 , 90)
 
+// var hasProfile = false
+// setTimeout(function () {
+//     if (!hasProfile) {
+//         alert("لطفا بارگذاری کنید")
+//     }
+// }, 5000)
+
