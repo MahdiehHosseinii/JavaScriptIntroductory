@@ -1043,3 +1043,17 @@
 //     }
 // }, 5000)
 
+// var userName = prompt("enter your username: ")
+// var users = ["amir" , "ali" , "amin" , "babak"]
+// var isLogin = false
+// for (var i = 0 ; i < userName.length ; i++) {
+//     if (users[i] === userName) {
+//         isLogin = true
+//     }
+// }
+// if (isLogin) {
+//     alert("your login")
+// }else {
+//     alert("your not login")
+// }
+
