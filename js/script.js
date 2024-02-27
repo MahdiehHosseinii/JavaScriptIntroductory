@@ -1032,3 +1032,7 @@
 //     alert("وارد نمایید")
 // }
 
+// setTimeout(function (num1 , num2){
+//     alert(num1 + num2)
+// } , 5000 , 4 , 90)
+
