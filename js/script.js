@@ -1057,3 +1057,12 @@
 //     alert("your not login")
 // }
 
+// num1 = 10
+// console.log(num1)
+// var num1
+
+// showValue()
+// function showValue () {
+//     console.log(13 + 7)
+// }
+
